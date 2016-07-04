@@ -1,2 +1,5 @@
 ve/
 docs/_*/*
+docs/_build
+docs/_static
+docs/_template
