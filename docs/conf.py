@@ -31,6 +31,7 @@ import os
 extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.githubpages',
+    'rst2pdf.pdfbuilder'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -287,3 +288,5 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+pdf_documents = [('index', u'rst2pdf', u'Seed Accounting', u'Bruce McIntyre'),]
