@@ -1,5 +1,3 @@
 ve/
-docs/_*/*
-docs/_build/*
-docs/_static/*
-docs/_template/*
+docs/_build/html/
+docs/_build/doctrees/
