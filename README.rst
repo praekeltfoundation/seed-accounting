@@ -1,10 +1,11 @@
 Seed: Accounting
 ================
 
-This is the documentation for the accounting portion of Seed.
+This is the accounting portion of Seed.
 
-It allows the tracking and storing of counters through the Seed platform
-to ensure an accurate and extendible addition to the platform.
+It allows the tracking and storing of counters through the Seed ecosystem
+to ensure an accurate and extendible addition to the platform to allow for
+billing, rating and actions according to the values of the counters gathered.
 
 Build these docs locally with::
 
